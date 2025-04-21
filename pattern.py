@@ -13,14 +13,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("yellow")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.right(60)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 
 draw(20)
@@ -34,14 +34,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("brown")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.right(60)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(20)
 
@@ -54,14 +54,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("red")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.right(60)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(20)
 
@@ -74,14 +74,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("#FFF8DC")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.right(60)
-        draw(3 * 1 / 4)
+        draw(3 * l / 4)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(20)
 
@@ -92,14 +92,14 @@ def draw(l):
     else:
         roo.pensize(3)
         roo.pencolor("lightgreen")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.right(60)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.left(30)
         roo.pensize(3)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(40)
 
@@ -112,14 +112,14 @@ def draw(l):
     else:
         roo.pensize(3)
         roo.pencolor("red")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.right(60)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.left(30)
         roo.pensize(3)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(40)
 
@@ -132,14 +132,14 @@ def draw(l):
     else:
         roo.pensize(3)
         roo.pencolor("yellow")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.right(60)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.left(30)
         roo.pensize(3)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(40)
 
@@ -152,14 +152,14 @@ def draw(l):
     else:
         roo.pensize(3)
         roo.pencolor("#FFF8DC")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.right(60)
-        draw(4 * 1 / 5)
+        draw(4 * l / 5)
         roo.left(30)
         roo.pensize(3)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(40)
 
@@ -171,14 +171,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("cyan")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.right(60)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(60)
 
@@ -191,14 +191,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("yellow")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.right(60)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(60)
 
@@ -211,14 +211,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("magenta")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.right(60)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(60)
 
@@ -231,14 +231,14 @@ def draw(l):
     else:
         roo.pensize(2)
         roo.pencolor("FFF8DC")
-        roo.forward(1)
+        roo.forward(l)
         roo.left(30)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.right(60)
-        draw(6 * 1 / 7)
+        draw(6 * l / 7)
         roo.left(30)
         roo.pensize(2)
-        roo.backward(1)
+        roo.backward(l)
 
 draw(60)
 
